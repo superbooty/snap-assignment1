@@ -1,0 +1,22 @@
+{
+    "name": "footer",
+    "strings": {
+    },
+
+    "assets": {
+    },
+
+    "input_parameters": [
+    ],
+
+    "model": {
+    },
+
+    "viewlets": {
+        "index": {
+            "template": "index.mu"
+        }
+    },
+    "version": "0.0.1"
+}
+

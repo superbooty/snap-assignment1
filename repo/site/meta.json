@@ -1,0 +1,9 @@
+{
+	"sites": { 
+	           "localhost": "US"
+	         },    
+	
+	"US": { 
+	        "locale": "en_US"
+	      }
+}

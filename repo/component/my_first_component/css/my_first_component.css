@@ -1,0 +1,30 @@
+
+.shelf_container {
+    width:1000px;
+
+}
+
+.shelf_container .shelf_item {
+    width:248px;
+    float:left;
+    color: #333333;
+    font-family: verdana,arial,lucida,sans-serif;
+    font-size: 11px;
+    text-align: left;
+}
+
+.shelf_item_img img {
+    float:left;
+    width:150px;
+    height:150px;
+}
+
+.product-finder-pov img {
+    margin: 0 0 0 10;
+    width:850px;
+    height:390px;
+}
+
+.product-finder-filter-container {
+    width:1000px;
+}

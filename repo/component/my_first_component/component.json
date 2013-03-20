@@ -1,0 +1,25 @@
+{
+    "name": "my_first_component",
+    "css":["my_first_component.css"],
+
+    "input_parameters": [
+
+    ],
+
+    "model": {
+        "products": {
+            "service_url": "",
+            "method": "GET"
+
+        }
+    },
+
+    "viewlets": {
+        "index": {
+            "template": "index.mu"
+
+        }
+    },
+    "version": "0.0.1"
+}
+

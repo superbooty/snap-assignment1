@@ -1,0 +1,26 @@
+{
+    "name": "tutorial",
+    "layout": "onecol.mu",
+    "positions": {
+        "header": [
+            {
+                "component": "header"
+            }
+        ],
+        "slot2": [
+            {
+                "component": "my_first_component",
+                "bindings":
+                {
+
+                }
+            }
+        ],
+        "footer": [
+            {
+                "component": "footer"
+            }
+        ]
+    }
+}
+
